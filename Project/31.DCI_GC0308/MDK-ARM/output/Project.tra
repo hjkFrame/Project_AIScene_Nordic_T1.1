@@ -1,0 +1,60 @@
+*** Creating Trace Output File '.\output\Project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\main.o"'
+### List of Objects: adding '".\output\gd32f20x_it.o"'
+### List of Objects: adding '".\output\systick.o"'
+### List of Objects: adding '".\output\system_gd32f20x.o"'
+### List of Objects: adding '".\output\gd32f20x_adc.o"'
+### List of Objects: adding '".\output\gd32f20x_bkp.o"'
+### List of Objects: adding '".\output\gd32f20x_can.o"'
+### List of Objects: adding '".\output\gd32f20x_cau.o"'
+### List of Objects: adding '".\output\gd32f20x_cau_aes.o"'
+### List of Objects: adding '".\output\gd32f20x_cau_des.o"'
+### List of Objects: adding '".\output\gd32f20x_cau_tdes.o"'
+### List of Objects: adding '".\output\gd32f20x_crc.o"'
+### List of Objects: adding '".\output\gd32f20x_dac.o"'
+### List of Objects: adding '".\output\gd32f20x_dbg.o"'
+### List of Objects: adding '".\output\gd32f20x_dci.o"'
+### List of Objects: adding '".\output\gd32f20x_dma.o"'
+### List of Objects: adding '".\output\gd32f20x_enet.o"'
+### List of Objects: adding '".\output\gd32f20x_exmc.o"'
+### List of Objects: adding '".\output\gd32f20x_exti.o"'
+### List of Objects: adding '".\output\gd32f20x_fmc.o"'
+### List of Objects: adding '".\output\gd32f20x_fwdgt.o"'
+### List of Objects: adding '".\output\gd32f20x_gpio.o"'
+### List of Objects: adding '".\output\gd32f20x_hau.o"'
+### List of Objects: adding '".\output\gd32f20x_hau_sha_md5.o"'
+### List of Objects: adding '".\output\gd32f20x_i2c.o"'
+### List of Objects: adding '".\output\gd32f20x_misc.o"'
+### List of Objects: adding '".\output\gd32f20x_pmu.o"'
+### List of Objects: adding '".\output\gd32f20x_rcu.o"'
+### List of Objects: adding '".\output\gd32f20x_rtc.o"'
+### List of Objects: adding '".\output\gd32f20x_sdio.o"'
+### List of Objects: adding '".\output\gd32f20x_spi.o"'
+### List of Objects: adding '".\output\gd32f20x_timer.o"'
+### List of Objects: adding '".\output\gd32f20x_tli.o"'
+### List of Objects: adding '".\output\gd32f20x_trng.o"'
+### List of Objects: adding '".\output\gd32f20x_usart.o"'
+### List of Objects: adding '".\output\gd32f20x_wwdgt.o"'
+### List of Objects: adding '".\output\gd32f207i_eval.o"'
+### List of Objects: adding '".\output\gd32f207i_sdram_eval.o"'
+### List of Objects: adding '".\output\dci_ov2640.o"'
+### List of Objects: adding '".\output\picture.o"'
+### List of Objects: adding '".\output\sccb.o"'
+### List of Objects: adding '".\output\startup_gd32f20x_cl.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\output\main.o" ".\output\gd32f20x_it.o" ".\output\systick.o" ".\output\system_gd32f20x.o" ".\output\gd32f20x_adc.o" ".\output\gd32f20x_bkp.o" ".\output\gd32f20x_can.o" ".\output\gd32f20x_cau.o" ".\output\gd32f20x_cau_aes.o" ".\output\gd32f20x_cau_des.o" ".\output\gd32f20x_cau_tdes.o" ".\output\gd32f20x_crc.o" ".\output\gd32f20x_dac.o" ".\output\gd32f20x_dbg.o" ".\output\gd32f20x_dci.o" ".\output\gd32f20x_dma.o" ".\output\gd32f20x_enet.o" ".\output\gd32f20x_exmc.o" ".\output\gd32f20x_exti.o" ".\output\gd32f20x_fmc.o" ".\output\gd32f20x_fwdgt.o" ".\output\gd32f20x_gpio.o" ".\output\gd32f20x_hau.o" ".\output\gd32f20x_hau_sha_md5.o" ".\output\gd32f20x_i2c.o" ".\output\gd32f20x_misc.o" ".\output\gd32f20x_pmu.o" ".\output\gd32f20x_rcu.o" ".\output\gd32f20x_rtc.o" ".\output\gd32f20x_sdio.o" ".\output\gd32f20x_spi.o" ".\output\gd32f20x_timer.o" ".\output\gd32f20x_tli.o" ".\output\gd32f20x_trng.o" ".\output\gd32f20x_usart.o" ".\output\gd32f20x_wwdgt.o" ".\output\gd32f207i_eval.o" ".\output\gd32f207i_sdram_eval.o" ".\output\dci_ov2640.o" ".\output\picture.o" ".\output\sccb.o" ".\output\startup_gd32f20x_cl.o" --library_type=microlib --strict --scatter ".\output\Project.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\list\Project.map" -o ".\output\Project.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\output\Project.axf'
+### ADS-LD Command File: '.\output\Project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\output\Project.lnp', Handle=0x00000198
+### Writing '.lnp' file
+### ADS-LD Command file '.\output\Project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
