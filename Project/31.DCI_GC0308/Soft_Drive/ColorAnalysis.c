@@ -14,7 +14,7 @@
 
 //#define WRITE_DATA
 
-extern uint8_t i,g_ImageArray[CAPTURE_W * CAPTURE_H * 2];
+extern uint8_t g_ImageArray[CAPTURE_W * CAPTURE_H * 2];
 
 
 //testing mode
